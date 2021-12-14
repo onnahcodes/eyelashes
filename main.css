@@ -1,0 +1,16 @@
+nav .brand-logo{
+    font-family: 'Corinthia', cursive;
+    color: purple;
+}
+
+nav{
+    color: purple;
+}
+h1{
+    font-family: 'Corinthia', cursive;
+}
+
+footer{
+    height: 100px;
+    color: purple;
+}
